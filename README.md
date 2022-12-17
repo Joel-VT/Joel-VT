@@ -10,7 +10,7 @@ Reach out! 📡
 <a href="mailto:joelvarghese90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </br>
 * How to reach me: joelvarghese90@gmail.com
-* 💪🏼 Fun fact: I'm also a sound engineer at my church.
+* 💪🏼 Fun fact: I'm also a lead singer in a worship team.
 
 
 <b>Top Technologies</b>
